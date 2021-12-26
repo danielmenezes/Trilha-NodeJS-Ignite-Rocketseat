@@ -1,14 +1,16 @@
 
-<img src="node-js.svg"/>
+<img src="node-js.svg"/>  
 
-# Trilha NodeJS Ignite Rocketseat 
+# Trilha NodeJS - Ignite Rocketseat 
+
 
 
 
 ## Chapter I
 
-### Desafio: Conceitos do Node.js
-Link repositório: https://github.com/danielmenezes/nodejs-todo
+   #### Desafio: Conceitos do Node.js
+    
+   Link repositório: https://github.com/danielmenezes/nodejs-todo
 
 ## Chapter II
 
