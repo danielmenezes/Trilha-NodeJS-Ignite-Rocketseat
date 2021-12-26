@@ -1,7 +1,7 @@
 
 <img src="node-js.svg"/>  
 
-# Trilha NodeJS - Ignite Rocketseat 
+# Trilha NodeJS - Ignite Rocketseat 🚀
 
 
 
