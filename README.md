@@ -4,13 +4,10 @@
 # Trilha NodeJS - Ignite Rocketseat 🚀
 
 
-
-
 ## Chapter I
 
-   #### Desafio: Conceitos do Node.js
-    
-   Link repositório: https://github.com/danielmenezes/nodejs-todo
+   * [Desafio Conceitos de Node.js](https://github.com/danielmenezes/nodejs-todo)
+
 
 ## Chapter II
 
