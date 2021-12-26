@@ -1,4 +1,6 @@
-# Trilha NodeJS Ignite Rocketseat ![nodejs](nodejs.png)
+<img src="node-js.svg"/>
+
+# Trilha NodeJS Ignite Rocketseat 
 
 
 
