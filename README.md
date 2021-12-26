@@ -4,6 +4,9 @@
 
 ## Chapter I
 
+### Desafio: Conceitos do Node.js
+Link repositório: https://github.com/danielmenezes/nodejs-todo
+
 ## Chapter II
 
 ## Chapter III
