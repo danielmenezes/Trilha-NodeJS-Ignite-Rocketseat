@@ -12,10 +12,12 @@
 
 ## Chapter II
 
-  * [API desenvolvida no capítulo - Aprendendo conceitos de SOLID](https://github.com/danielmenezes/rentalx)
+  * [API desenvolvida no capítulo](https://github.com/danielmenezes/rentalx)
   * [Desafio - Introdução ao SOLID](https://github.com/danielmenezes/desafio-introducao-solid)
 
 ## Chapter III
+
+  * [API desenvolvida no capítulo](https://github.com/danielmenezes/rentalx)
 
 ## Chapter IV
 
